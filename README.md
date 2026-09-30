@@ -1,5 +1,9 @@
 # Hunt the Wumpus
 
+> [!NOTE]
+> Development happens on [git.coffeylabs.org/jcoffey-dev/wumpus](https://git.coffeylabs.org/jcoffey-dev/wumpus); the copy on GitHub is a read-only mirror.
+> Report issues at **[git.coffeylabs.org/jcoffey-dev/wumpus/issues](https://git.coffeylabs.org/jcoffey-dev/wumpus/issues)**, and join discussions at **[community.coffeylabs.org](https://community.coffeylabs.org)**.
+
 A browser recreation of the 1973 cave game — the one you played on a Teletype,
 by smell, with five arrows you could not aim straight.
 
